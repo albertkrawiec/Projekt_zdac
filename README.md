@@ -1,1 +1,4 @@
-# Projekt_zdac
+# Projekt zdac
+-mature
+-egzamin zawodowy
+-zycie
